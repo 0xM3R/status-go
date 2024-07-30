@@ -2,6 +2,8 @@
 
 [![GoDoc](https://godoc.org/github.com/status-im/status-go?status.svg)](https://godoc.org/github.com/status-im/status-go)
 [![Build Status](https://travis-ci.org/status-im/status-go.svg?branch=develop)](https://travis-ci.org/status-im/status-go)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+
 
 # Docs
 
